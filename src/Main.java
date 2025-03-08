@@ -14,8 +14,10 @@ Empresa empresa = new Empresa();
             System.out.println("o nome do funcionario é : " + empresa.nome
             System.out.println("O salario do funcionario é : " + empresa.valorSalarioFuncionario);
             System.out.println(" O cardo do funcionario é : " + empresa.cargoFuncionario);
-
-
+// TESTANDO A NOVA BRANCH
+EmpresaSetor empresaSetor = new EmpresaSetor();
+System.out.println(empresaSetor.nomeSetorJuridico);
+System.out.println(empresaSetpr.nomeSetorRH);
 
 
 //Funcionario funcionario = new Funcionario();
